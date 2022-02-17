@@ -1,0 +1,23 @@
+{
+  "name": "a03-lukeduck",
+  "version": "1.0.0",
+  "description": "server API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a03-lukeduck.git"
+  },
+  "author": "Luke Duckworth",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a03-lukeduck/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a03-lukeduck#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
