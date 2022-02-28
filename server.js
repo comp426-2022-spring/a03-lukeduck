@@ -77,8 +77,6 @@ function flipACoin(call) {
         }
       }
 }
-  
-
 
 // endpoints 
 app.get('/app/', (req, res) => {
