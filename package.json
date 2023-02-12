@@ -20,6 +20,6 @@
   "homepage": "https://github.com/comp426-2022-spring/a03-lukeduck#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.20"
   }
 }
